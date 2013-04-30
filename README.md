@@ -1,4 +1,4 @@
-job-site
+Profile Building Website
 ========
 
 its a job site where you can set your profile and upload properly your resume and can send it to companies.This project contains option of integration of facebook and linkedin social sites.Which captures data from those sites and integrates into your website.
